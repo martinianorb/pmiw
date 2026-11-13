@@ -1,3 +1,8 @@
+//Martiniano Rodriguez Barreda y Benjamin Mendoza
+//Comision 5, Leo Garay
+//Link de video a Youtube: https://youtu.be/4JH_KG94Ewo
+
+
 let juego;
 let imagenFondo;
 let imagenObstaculo;
